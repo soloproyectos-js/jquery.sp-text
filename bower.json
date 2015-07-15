@@ -1,0 +1,23 @@
+{
+  "name": "jquery.sp-text",
+  "version": "0.1.0",
+  "homepage": "https://github.com/soloproyectos-js/jquery.sp-text",
+  "authors": [
+    "Gonzalo Chumillas <gchumillas@email.com>"
+  ],
+  "description": "A text helper plugin for jQuery.",
+  "main": "dist/jquery.sp-text.min.js",
+  "keywords": [
+    "jquery",
+    "text"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "vendor",
+    "test"
+  ],
+  "dependencies": {
+    "jquery.sp-regex": "latest"
+  }
+}
